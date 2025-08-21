@@ -78,7 +78,7 @@
 
   <section id="sobre">
     <h2>Sobre Nós</h2>
-    <p>Somos uma mercearia tradicional localizada no coração de Belém. Trabalhamos com produtos frescos, locais e com atendimento de qualidade. Nossa missão é levar o melhor para sua mesa todos os dias.</p>
+    <p>Somos uma mercearia tradicional localizada na Rua José  Arnaldo N°105, na Cidade de Exu-PE. Trabalhamos com produtos frescos, locais e com atendimento de qualidade. Nossa missão é levar o melhor para sua mesa todos os dias.</p>
   </section>
 
   <section id="produtos">
@@ -102,8 +102,8 @@
 
   <section id="contato">
     <h2>Contato</h2>
-    <p>📍 Rua da Mercearia, 123 - Belém, PA</p>
-    <p>📞 (91) 99999-9999</p>
+    <p>📍 Rua José Arnaldo N°105, na Cidade de Exu-PE</p>
+    <p>📞 (87)9 99655249</p>
     <p>📧 contato@merceariabelem.com.br</p>
   </section>
 
