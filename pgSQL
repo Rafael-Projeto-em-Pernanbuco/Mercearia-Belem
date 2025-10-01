@@ -1,0 +1,13 @@
+-- Criação de tabela de produtos
+CREATE TABLE produtos (
+    id SERIAL PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    preco DECIMAL(10,2) NOT NULL,
+    estoque INT DEFAULT 0
+);
+
+-- Inserir produtos de exemplo
+INSERT INTO produtos (nome, preco, estoque) VALUES
+('Arroz 5kg', 20.00, 50),
+('Feijão 1kg', 8.00, 100),
+('Macarrão 500g', 4.50, 200);
